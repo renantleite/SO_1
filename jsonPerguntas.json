@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "question": "Qual o nome do presidente do Brasil?",
+        "options": ["Jair Bolsonaro", "Lula", "Dilma", "FHC"],
+        "correctAnswerIndex": 1
+    },
+    {
+        "id": 2,
+        "question": "O Homem foi a lua?",
+        "options": ["Sim", "Não"],
+        "correctAnswerIndex": 0
+    },
+    {
+        "id": 3,
+        "question": "Qual o nome do presidente dos EUA?",
+        "options": ["Donald Trump", "Barack Obama", "Joe Biden", "George W. Bush"],
+        "correctAnswerIndex": 2
+    }
+]
